@@ -1,0 +1,25 @@
+{
+  "name": "form-template",
+  "version": "0.1.0",
+  "description": "A module that template forms.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/nollavpat/form-template.git"
+  },
+  "author": "Jairus Patrick Leal Vallon <jpatrickvallon@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/nollavpat/form-template/issues"
+  },
+  "homepage": "https://gitlab.com/nollavpat/form-template#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.13.0",
+    "jest": "^24.8.0"
+  },
+  "dependencies": {}
+}
