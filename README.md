@@ -5,7 +5,7 @@ A module that template forms.
 ## Installation
 
 ```bash
-npm install something
+npm i -S @nollavpat/form-template
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ const {
   createRadioButton,
   createCheckbox,
   createFormTemplate,
-} = require('something');
+} = require('@nollavpat/form-template');
 
 // create a template
 const myTemplate = createFormTemplate('Application Form');
