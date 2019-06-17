@@ -13,9 +13,9 @@
   "author": "Jairus Patrick Leal Vallon <jpatrickvallon@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/nollavpat/form-template/issues"
+    "url": "https://github.com/nollavpat/form-template/issues"
   },
-  "homepage": "https://gitlab.com/nollavpat/form-template#readme",
+  "homepage": "https://github.com/nollavpat/form-template#readme",
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-google": "^0.13.0",
