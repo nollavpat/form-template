@@ -13,19 +13,18 @@
     "ecmaVersion": 2018
   },
   "rules": {
-    // "require-jsdoc": [
-    //   "error",
-    //   {
-    //     "require": {
-    //       "FunctionDeclaration": true,
-    //       "MethodDefinition": true,
-    //       "ClassDeclaration": false,
-    //       "ArrowFunctionExpression": true,
-    //       "FunctionExpression": true
-    //     }
-    //   }
-    // ],
-    "require-jsdoc": "off",
+    "require-jsdoc": [
+      "error",
+      {
+        "require": {
+          "FunctionDeclaration": true,
+          "MethodDefinition": true,
+          "ClassDeclaration": false,
+          "ArrowFunctionExpression": true,
+          "FunctionExpression": true
+        }
+      }
+    ],
     "max-len": ["error", { "ignoreComments": true }]
   }
 }
