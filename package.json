@@ -4,7 +4,8 @@
   "description": "A module that template forms.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --collect-coverage",
+    "cover": "node_modules/istanbul/lib/cli.js cover jest"
   },
   "repository": {
     "type": "git",
@@ -17,8 +18,10 @@
   },
   "homepage": "https://github.com/nollavpat/form-template#readme",
   "devDependencies": {
+    "coveralls": "^3.0.4",
     "eslint": "^5.16.0",
     "eslint-config-google": "^0.13.0",
+    "istanbul": "^0.4.5",
     "jest": "^24.8.0"
   },
   "dependencies": {}
