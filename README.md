@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/nollavpat/form-template.svg?branch=master)](https://travis-ci.org/nollavpat/form-template)
+[![Coverage Status](https://coveralls.io/repos/github/nollavpat/form-template/badge.svg?branch=master)](https://coveralls.io/github/nollavpat/form-template?branch=master)
+
 # form-template
 
 A module that template forms.
