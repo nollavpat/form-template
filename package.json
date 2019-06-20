@@ -1,6 +1,6 @@
 {
   "name": "@nollavpat/form-template",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "A module that template forms.",
   "main": "lib/index.js",
   "scripts": {
